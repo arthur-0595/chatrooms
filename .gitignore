@@ -1,0 +1,10 @@
+.DS_Store
+*.mp4
+*.mov
+node_modules
+npm-debug.log
+video
+qrsync
+upload.json
+.idea
+npm-debug.log
