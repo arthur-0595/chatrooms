@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/arthur-0595/myNode/issues"
   },
-  "homepage": "https://github.com/arthur-0595/myNode#readme"
+  "homepage": "https://github.com/arthur-0595/myNode#readme",
+  "dependencies": {
+    "mime": "^2.4.0",
+    "socket.io": "^2.2.0"
+  }
 }
